@@ -15,3 +15,6 @@ a curated list of amazing competition created by Proclub
 * [Google Summer of Code (GSOC)](https://summerofcode.withgoogle.com/) - global program focused on bringing more student developers into open source software development
 * [Google Code Jam](https://code.google.com/codejam/) - Code Jam calls on programmers around the world to put their skills to the test by solving multiple rounds of algorithmic puzzles
 * [Facebook Hacker Cup](https://www.facebook.com/hackercup/) - Facebook's annual worldwide programming competition.
+* [Haskell Summer of Code (HSoC)](https://summer.haskell.org/) - global program that focused students to contribute in Haskell open source community
+* [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - getting more women into open source (not limited to student)
+
